@@ -1,3 +1,3 @@
 ## Entropy-regularized Diffusion Policy with Q-Ensemble for Offline Reinforcement Learning
 
-The code will be released soon.
+Please check the repo [https://github.com/ruoqizzz/entropy-offlineRL](https://github.com/ruoqizzz/entropy-offlineRL)
